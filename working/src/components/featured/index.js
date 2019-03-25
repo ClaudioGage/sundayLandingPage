@@ -10,7 +10,7 @@ const Featured = () => {
 
             <div className="artist_name">
                 <div className="wrapper">
-                    Ariana Grande
+                   pokemon
                 </div>
             </div>
 
